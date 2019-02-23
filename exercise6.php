@@ -13,7 +13,6 @@ class CalculateFactorial{
 
     public function fact($num)
     {
-        # code...
         if($num<=1)
         {
             return 1;
